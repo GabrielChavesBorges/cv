@@ -1,0 +1,144 @@
+/* Element selectors */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3rem;
+  margin-top: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #66BFBF;
+  font-size: 1.5rem;
+}
+
+hr {
+  width: 3%;
+  border-style: dotted;
+  border-bottom-style: hidden;
+  color: #66BFBF;
+  border-width: 5px;
+  margin: 50px auto;
+}
+
+p {
+  width:35%;
+  margin:0 auto;
+}
+
+ul {
+  font-size: 1rem;
+}
+
+/* Class selectors */
+
+.contact {
+   color: #66BFBF;
+   text-decoration: none;
+   cursor: pointer;
+   font-weight: bold;
+}
+
+.contact:hover {
+   color: #30E3CB;
+}
+
+.contact_div {
+  text-align: center;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #66BFBF;
+  margin: 100px 0 0;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.history_div {
+  width: 55%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.history_ul {
+  display: inline-block;
+  text-align: left;
+  margin: 10px auto 0;
+}
+
+.icon_link {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #aad8d3;
+  font-weight: bold;
+}
+
+.icon_link:hover {
+  color: #EAF6F6;
+}
+
+.icon_reference {
+  font-size: 0.8rem;
+  color: #344fa1;
+}
+
+.intro_div {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.intro_hello {
+  margin-top: 30px;
+}
+
+.left_side_img {
+  float:left;
+  width: 20%;
+  margin-right: 30px;
+}
+
+.profile_picture {
+  width: 20%;
+}
+
+.right_side_img {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.skills_div {
+  width: 50%;
+  margin: 0 auto 100px;
+}
+
+.skill_heading {
+  text-align: center;
+  margin: 100px auto 30px;
+}
+
+.skill_img {
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 150px;
+}
+
+.skills_ul {
+  display: inline-block;
+}
