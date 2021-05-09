@@ -72,6 +72,10 @@ ul {
   text-align: center;
 }
 
+.function {
+  font-weight: bold;
+}
+
 .history_div {
   width: 40rem;
   margin: 0 auto 100px auto;
