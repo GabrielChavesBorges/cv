@@ -1,0 +1,152 @@
+/* Element selectors */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #66BFBF;
+  font-size: 1.5rem;
+  margin: 80px auto 30px auto;
+}
+
+hr {
+  width: 3%;
+  border-style: dotted;
+  border-bottom-style: hidden;
+  color: #66BFBF;
+  border-width: 5px;
+  margin: 50px auto;
+}
+
+p {
+  width:35%;
+  margin:0 auto;
+}
+
+ul {
+  font-size: 1rem;
+}
+
+/* Class selectors */
+
+.contact {
+   color: #66BFBF;
+   text-decoration: none;
+   cursor: pointer;
+   font-weight: bold;
+}
+
+.contact:hover {
+   color: #30E3CB;
+}
+
+.contact_div {
+  text-align: center;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #66BFBF;
+  margin: 100px 0 0;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.history_div {
+  width: 40rem;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  position: relative;
+}
+
+.history_img {
+  display: inline-block;
+  width: 5rem;
+}
+
+.history_ul {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  display: inline-block;
+  text-align: left;
+  width: 75%;
+  margin: 0;
+}
+
+.icon_link {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #aad8d3;
+  font-weight: bold;
+}
+
+.icon_link:hover {
+  color: #EAF6F6;
+}
+
+.icon_reference {
+  font-size: 0.8rem;
+  color: #344fa1;
+}
+
+.intro_div {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.intro_hello {
+  margin-top: 30px;
+}
+
+.profile_picture {
+  width: 20%;
+}
+
+.skills_div {
+  width: 30rem;
+  margin: 0 auto 100px auto;
+  text-align: left;
+}
+
+.skills_inner_div {
+  display: inline-block;
+  width: 15rem;
+  margin-left: 5rem;
+}
+
+.skill_header {
+  margin: 0 0 20px 0;
+}
+
+.skill_img {
+  display: inline-block;
+  width: 5rem;
+}
+
+.skills_ul {
+  display: inline-block;
+  text-align: left;
+  width: 30rem;
+  margin: 0;
+}
